@@ -1,0 +1,10 @@
+name: Keizai
+version: ${project.version}
+main: mumei.keizai.Keizai
+api-version: 1.16
+
+commands:
+  keizaireload:
+    description: リロードする
+    aliases:
+      - kreload
